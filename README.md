@@ -1,6 +1,6 @@
 # CompGeoLib
 # Computational Geometry Library
-# Please note: This is just a side project and will ot compete with CGAL or GEOS
+# Please note: This is just a side project and will not compete with CGAL or GEOS
 
 This project is a C++ library for performing various computational geometry operations such as Convex Hull detection, basic geometric transformations, and point-based algorithms. The library was developed using Visual Studio 2022 Community to demonstrate both proficiency in C++ and a strong understanding of computational geometry concepts.
 
