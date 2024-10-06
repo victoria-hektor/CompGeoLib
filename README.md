@@ -1,0 +1,2 @@
+# CompGeoLib
+Computational Geometry Library
